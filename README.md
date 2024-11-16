@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou o Lucas!</h1>
 
 ### 🚀 Sobre mim
-Sou um desenvolvedor FullStack com foco em Python, PHP, automação com Selenium e uma experiência sólida no desenvolvimento e consumo de APIs REST.
+Sou um desenvolvedor com foco em Python, PHP, SQL, automação com Selenium e uma experiência sólida no desenvolvimento e consumo de APIs REST.
 - Ciência da Computação - UDF (8/8)
 - Estagiário na Dataprev na área de desenvolvimento e automação.
 
@@ -13,6 +13,7 @@ Sou um desenvolvedor FullStack com foco em Python, PHP, automação com Selenium
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🛠️ Ferramentas & Ambientes
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -27,6 +28,7 @@ Sou um desenvolvedor FullStack com foco em Python, PHP, automação com Selenium
 - 🐳 Containerização e DevOps
 - 🔄 Integração Contínua
 - 📊 Análise e Processamento de Dados
+- 🗄️ Consultas e Manipulação de Dados SQL
 
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasluizz)
