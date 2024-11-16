@@ -30,6 +30,11 @@ Sou um desenvolvedor com foco em Python, PHP, SQL, automação com Selenium e um
 - 📊 Análise e Processamento de Dados
 - 🗄️ Consultas e Manipulação de Dados SQL
 
+### 📚 Atualmente Estudando
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasluizz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lurani2003@gmail.com)
