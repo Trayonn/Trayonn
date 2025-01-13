@@ -2,8 +2,8 @@
 
 ### 🚀 Sobre mim
 Sou um desenvolvedor com foco em Python, PHP, SQL, automação com Selenium e uma experiência sólida no desenvolvimento e consumo de APIs REST.
-- Ciência da Computação - UDF (8/8)
-- Estagiário na Dataprev na área de desenvolvimento e automação.
+- Graduado em Ciência da Computação pela UDF 
+
 
 ### 💻 Stack Principal
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
