@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou o Lucas!</h1>
 
 ### 🚀 Sobre mim
-Sou um desenvolvedor com foco em Python, PHP, SQL, automação com Selenium e uma experiência sólida no desenvolvimento e consumo de APIs REST.
+Sou um desenvolvedor com foco em Python, PHP, SQL e automação com uma experiência sólida no desenvolvimento e consumo de APIs REST.
 - Graduado em Ciência da Computação pela UDF 
 
 
