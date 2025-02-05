@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou o Lucas!</h1>
 
 ### 🚀 Sobre mim
-Sou um desenvolvedor com experiência em desenvolvimento web, Python, PHP, SQL e automação com uma experiência sólida no desenvolvimento e consumo de APIs REST.
+Sou um desenvolvedor com experiência em desenvolvimento web, Python, PHP, SQL e automação, com sólida experiência no desenvolvimento e consumo de APIs REST.
 - Graduado em Ciência da Computação pela UDF 
 
 
